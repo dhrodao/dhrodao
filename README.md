@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daniel Hervas a Telematics Engineering student living in Spain. I spend the most of my time researching, coding and watching videos about tech, videogames or some other cool stuff.
+I'm Daniel Hervas a Telematics Engineering student living in Spain. I spend the most of my time researching, coding and watching videos about tech, videogames and some other cool stuff.
 
 :mailbox: Here are my socials.
 
