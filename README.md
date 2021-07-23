@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<hr>
+
 <!--
 **dhrodao/dhrodao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Daniel Hervas a Telematics Engineering student living in Spain. I spend the most of my time researching, coding and watching videos about tech, videogames or some other cool stuff.
+
+:mailbox: Here are my socials.
+
+[![Linkedin Badge](https://img.shields.io/badge/-danielhervasrodao-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhervasrodao/) 
+[![Mail Badge](https://img.shields.io/badge/-@dxiiimst-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dxiiimst)
+[![Mail Badge](https://img.shields.io/badge/-dxiiimst-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danielhervasrodao@gmail.com)
+
