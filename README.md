@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I'm Daniel Hervas a Telematics Engineering student living in Spain. I spend the most of my time researching, coding and watching videos about tech, videogames and some other cool stuff.
 
+Right now, I'm currently working on my undergraduate thesis, that consists on a proyect for Unibotics and RoboticsAcademy introducing webRTC technologies to their environment.
+
 :mailbox: Here are my socials.
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielhervasrodao-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhervasrodao/) 
