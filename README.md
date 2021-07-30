@@ -27,6 +27,6 @@ Right now, I'm currently working on my undergraduate thesis, that consists on a 
 [![Mail Badge](https://img.shields.io/badge/-@dxniiimst-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dxiiimst)
 [![Mail Badge](https://img.shields.io/badge/-Daniel_Hervás_Rodao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danielhervasrodao@gmail.com)
 
-Here are my stats:
+:bar_chart: Here are my recent stats:
 
 ![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=dhrodao&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
