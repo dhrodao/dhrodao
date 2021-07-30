@@ -21,13 +21,13 @@ I'm Daniel Hervas a Telematics Engineering student living in Spain. I spend the 
 
 Right now, I'm working on my undergraduate thesis, that consists on a proyect for Unibotics and RoboticsAcademy introducing webRTC technologies to their environment.
 
-## :mailbox: Here are my socials.
+## :mailbox: Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielhervasrodao-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhervasrodao/) 
 [![Mail Badge](https://img.shields.io/badge/-@dxniiimst-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dxiiimst)
 [![Mail Badge](https://img.shields.io/badge/-Daniel_Hervás_Rodao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danielhervasrodao@gmail.com)
 
-## :computer: Languages:
+## :computer: Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
