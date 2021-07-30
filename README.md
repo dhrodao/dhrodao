@@ -49,7 +49,7 @@ Right now, I'm working on my undergraduate thesis, that consists on a proyect fo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## :bar_chart: These are my recent stats:
+## :bar_chart: Stats
   
 ![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=dhrodao&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
