@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm Daniel Hervás a Telematics Engineer based in Spain. I spend the most of my spare time researching, coding and watching videos about tech, videogames and some other cool stuff.
 
-Right now, I'm working in Capgemini Engineering for Epicom Client as a Software Engineer in Crypto Systems.
+Right now, I'm working at Capgemini Engineering for Epicom Client as a Software Engineer in Crypto Systems.
 
 ## :mailbox: Contact me
 
