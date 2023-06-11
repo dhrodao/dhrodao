@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daniel Hervás a Telematics Engineering student living in Spain. I spend the most of my time researching, coding and watching videos about tech, videogames and some other cool stuff.
+I'm Daniel Hervás a Telematics Engineer based in Spain. I spend the most of my spare time researching, coding and watching videos about tech, videogames and some other cool stuff.
 
-Right now, I'm working on my undergraduate thesis, that consists on a proyect for Unibotics and RoboticsAcademy introducing webRTC technologies to their environment.
+Right now, I'm working in Capgemini Engineering for Epicom Client as a Software Engineer in Crypto Systems.
 
 ## :mailbox: Contact me
 
