@@ -51,3 +51,7 @@ Right now, I'm working at Capgemini Engineering for Epicom Client as a Software 
   
 ![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=dhrodao&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+## ⚔️ Codewars
+
+![Codewars stats](https://www.codewars.com/users/dhrodao/badges/small)
+
